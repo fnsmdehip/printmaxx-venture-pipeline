@@ -1,31 +1,31 @@
 # Venture Pipeline
 
-Multi-vertical business orchestration: 37 revenue verticals managed by autonomous pipeline
+**Multi-vertical business orchestration: 37 revenue verticals managed by autonomous pipeline**
 
 ## Overview
 
-Part of the PRINTMAXX autonomous revenue system — extracted as a standalone project.
+Multi-vertical business orchestration: 37 revenue verticals managed by autonomous pipeline
 
-## Highlights
+## Tech Stack
+
+python
+
+## Key Points
 
 - 37 revenue verticals orchestrated by a single pipeline system
 - Venture-specific sub-pipelines for content, outbound, research, monetization
 - Deep scorer evaluates each venture's potential daily
 
-## Tech Stack
+## Files
 
-- **python**
+- `venture_pipeline_outbound.py` (7KB)
+- `venture_pipeline_local_biz.py` (7KB)
+- `venture_performance_tracker.py` (13KB)
+- `venture_pipeline_brokering.py` (7KB)
+- `venture_pipeline.py` (7KB)
 
-## Tags
+## Part of Printmaxx (Meta Business System)
 
-`ventures`, `pipeline`, `business`, `orchestration`, `multi-vertical`
+This is a subsystem of [Printmaxx](https://github.com/fnsmdehip/printmaxx-starter-kit), a 27GB autonomous revenue operating system with 33 agents, 394 scripts, and 5,277 scored revenue methods.
 
-## Project History
-
-- **Active Period:** March 2025 — March 2026
-- **Parent System:** [PRINTMAXX Starter Kit](https://github.com/fnsmdehip/printmaxx-starter-kit)
-- **Built with:** AI pair programming (Claude, Cursor)
-
----
-
-*Part of [DEVPRINT](https://github.com/fnsmdehip/devprint) — 40+ projects built through AI-native development*
+[Full Portfolio](https://devprint-portfolio.surge.sh) | [System Architecture](https://builders-portfolio.surge.sh)
